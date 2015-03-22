@@ -1,0 +1,7 @@
+/home/kot/github/CouchbaseTest/CouchbaseTest/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/home/kot/github/CouchbaseTest/CouchbaseTest/bin/Release/CouchbaseTest.exe
+/home/kot/github/CouchbaseTest/CouchbaseTest/obj/x86/Release/CouchbaseTest.exe
+/home/kot/github/CouchbaseTest/CouchbaseTest/bin/Release/Newtonsoft.Json.dll
+/home/kot/github/CouchbaseTest/CouchbaseTest/bin/Release/Common.Logging.Core.dll
+/home/kot/github/CouchbaseTest/CouchbaseTest/bin/Release/Common.Logging.dll
+/home/kot/github/CouchbaseTest/CouchbaseTest/bin/Release/Couchbase.NetClient.dll
